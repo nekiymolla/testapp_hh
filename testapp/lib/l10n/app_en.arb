@@ -1,0 +1,34 @@
+{
+    "language": "English",
+    "@language":{
+        "description" : "The current language"
+    },
+    "myCodes": "My Codes",
+    "@myCodes":{
+        "description" : "Personal codes"
+    },
+    "allCodes": "All codes",
+    "@allCodes":{
+        "description" : "All personal codes"
+    },
+    "favorite": "Favorite",
+    "@favorite":{
+        "description": "Favorite codes"
+    },
+    "car": "Car",
+    "@car":{
+        "description": "Personal car"
+    },
+    "addcode": "Add code",
+    "@addcode":{
+        "description": "Add code to list"
+    },
+    "settings": "Settings",
+    "@settings":{
+        "description": "Settings page"
+    },
+    "profile": "Profile",
+    "@profile":{
+        "description": "Profile page"
+    }
+}
